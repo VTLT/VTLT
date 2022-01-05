@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @VTLT
-- 👀 I’m interested in everything related to programming an data anakysis
+- 👀 I’m interested in everything related to programming an data analysis
 - 🌱 I’m currently learning HTML, Python, SQL.  
 - 📫 How to reach me: it's early days yet
 
